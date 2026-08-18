@@ -74,16 +74,14 @@ The Excel dashboard provides a visual summary of the major sales and customer pe
 
 ## 🔍 Key Insights
 
-The analysis identified important patterns in:
+From this version of the dashboard:
 
-* Overall sales performance
-* Regional performance
-* Category and sub-category contribution
-* Customer purchasing behavior
-* Product performance
-* Sales trends over time
-
-> **Note:** Specific numerical insights will be added based on the final analysis results.
+1. **Central region** generated the highest profit at 40,188, followed by East (31,893) and West (26,778).
+2. **Corporate customers** generated the highest profit at 67,984, followed by Home Office (31,621) and Consumer (25,718).
+3. **Tuesday** recorded the highest daily sales at 4,271, while Friday recorded the lowest at 2,890.
+4. **Weekend sales** were considerably higher than weekday sales, indicating stronger sales activity during weekends.
+5. **Chairs & Chairmats** had the highest average packing time at approximately 2.7 days, while Tables had the lowest at approximately 1.4 days.
+6. The dashboard provides a year-wise view of sales performance from **2009 to 2012**.
 
 ---
 
